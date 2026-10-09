@@ -1,4 +1,4 @@
-# Train Eco-Driving Optimization
+# Train Eco-Driving Optimization 
 
 Optimal train trajectory and eco-driving profiles using mathematical optimization and interactive [marimo](https://marimo.io) notebooks.
 
